@@ -30,12 +30,9 @@ export function Projects() {
       description: 'A platform where users can seamlessly buy, sell, or rent properties with detailed filters and smart price insights. Integrated with ML models (Random Forest & XGBoost) to predict accurate property prices',
       longDescription: 'Advanced research project developing protocols and frameworks for multi-agent AI systems to collaborate effectively in real-world scenarios.',
       features: [
-        'Implemented features including property listing with detailed inputs (title, description, price, location, images) and
-a searchable dashboard for user management',
-        'Designed a responsive search system with filters for price range, property type, and location to enhance user
-experience',
-        'Integrated Machine Learning models (Random Forest and XGBoost) to predict accurate property prices, enhancing
-user decision-making.'
+        'Implemented features including property listing with detailed inputs and a searchable dashboard for user management',
+        'Designed a responsive search system with filters for price range, property type, and location to enhance user experience',
+        'Integrated Machine Learning models (Random Forest and XGBoost) to predict accurate property prices, enhancing user decision-making.'
        
       ],
       technologies: ['Python', 'Machine Learning', 'React', 'MongoDB', 'Tailwind CSS'],
